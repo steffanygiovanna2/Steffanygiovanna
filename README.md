@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de [Desenvolvimento de sismetas, python e pacote office] no [Senai]
+- 🎓 Estudante de Desenvolvimento de sismetas, python e pacote office no Senai.
 - 💻 Desenvolvedor apaixonado por código limpo e boas práticas
 - 🎯 Sempre em busca de novos desafios
 - 🧠 Atualmente aprendendo: `HTML`, `JavaScript`, e `C`
@@ -43,8 +43,8 @@
 ## 🤝 Conecte-se comigo!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.instagram.com/im_teffyxhw/" target="_blank">
+    <img alt="instagram" src="https://i.pinimg.com/736x/2e/28/d3/2e28d3cb73f7abe0f8ed668ebf200c94.jpg" />
   </a>
   <a href="mailto:steffanygiovannasouza@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />

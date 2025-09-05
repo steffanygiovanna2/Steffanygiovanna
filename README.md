@@ -44,14 +44,8 @@
 
 <p align="left">
   <a href="https://www.instagram.com/im_teffyxhw/" target="_blank">
-    <img alt="instagram" src="https://i.pinimg.com/736x/2e/28/d3/2e28d3cb73f7abe0f8ed668ebf200c94.jpg" />
+    <img alt="instagram" src="https://i.pinimg.com/736x/2e/28/d3/2e28d3cb73f7abe0f8ed668ebf200c94.jpg" width"100" />
   </a>
-  <style>
-  .instagram-img {
-    width: 100px;  /* Largura de 100px */
-    height: auto;  /* Mantém a proporção da imagem */
-  }
-</style>
   <a href="mailto:steffanygiovannasouza@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

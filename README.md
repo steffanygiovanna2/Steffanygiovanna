@@ -1,9 +1,9 @@
 # Steffanygiovanna
 
-<h1 align="center">👋 Olá, eu sou [Seu Nome]!</h1>
+<h1 align="center">👋 Olá, eu sou a Steffany!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&lines=Desenvolvedor+FullStack;Apaixonado+por+tecnologia;Sempre+aprendendo+coisas+novas!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&lines=Desenvolvedor+FullStack;Seja+bem+vindo;Qualquer+duvida+chama+😁!" />
 </p>
 
 ---

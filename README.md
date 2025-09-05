@@ -3,17 +3,17 @@
 <h1 align="center">👋 Olá, eu sou a Steffany!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&lines=Desenvolvedor+FullStack;Seja+bem+vindo;Qualquer+duvida+chama+😁!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&lines=Estudante+de+desenvolvimento;Seja+bem+vindo;Qualquer+duvida+chama+😁!" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de [Seu Curso] na [Sua Universidade]
+- 🎓 Estudante de [Desenvolvimento de sismetas, python e pacote office] no [Senai]
 - 💻 Desenvolvedor apaixonado por código limpo e boas práticas
 - 🎯 Sempre em busca de novos desafios
-- 🧠 Atualmente aprendendo: `Next.js`, `NestJS`, e `DevOps`
+- 🧠 Atualmente aprendendo: `HTML`, `JavaScript`, e `C`
 
 ---
 
@@ -46,10 +46,10 @@
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:steffanygiovannasouza@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://SEUSITE.dev" target="_blank">
+  <a href="https://github.com/steffanygiovanna" target="_blank">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
